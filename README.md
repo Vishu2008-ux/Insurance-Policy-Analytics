@@ -21,6 +21,6 @@ An interactive Insurance Dashboard built in Power BI using Power Query, DAX, dat
 - Interactive Year & Status Slicers
 
 ## 📷 Dashboard Preview
-![Insurance Dashboard](insurance.png)
+![Insurance Dashboard](Insurance.png)
 ## 👨‍💻 Author
 **Vishal Vishwakarma**
